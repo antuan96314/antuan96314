@@ -1,4 +1,7 @@
-## Hi there 👋
+## Antonio Alberto Iznaga Marín
+### Software and Hardware Developer
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antuan96314)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **antuan96314/antuan96314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
