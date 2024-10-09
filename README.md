@@ -6,7 +6,7 @@
 ### Work Experience
 [**Leil Storage OÜ**](https://leil.io)  
 *2022-01-01 – Present* | *Tallinn, Estonia*  
-**Position:** [*Senior Software Developer*](https://leil.io/about/#team:~:text=Antonio%20Alberto%20Iznaga%20Mar%C3%ADn)  
+**Position:** [*Senior Storage Developer*](https://leil.io/about/#team:~:text=Antonio%20Alberto%20Iznaga%20Mar%C3%ADn)  
 **Projects:** [SaunaFS](https://saunafs.com/about_us#team:~:text=Antonio%20Alberto%20Iznaga%20Mar%C3%ADn) [Open Source Distributed Filesystem](https://saunafs.com/#overview)  
 
 - Core system development for the [Open Source](https://github.com/leil-io/saunafs) distributed file storage solution.
@@ -25,7 +25,7 @@
 - System improvements for single-stream reading performances.
 - Customer support for LizardFS.
 ---
-**Cuban Neuroscience Center**  
+[**Cuban Neuroscience Center**](https://www.researchgate.net/profile/Antonio-Alberto-Iznaga-Marin)    
 *2010-09-01 – 2022-02-28* | *Havana, Cuba*  
 ***Embedded Software Developer***  
 - Design of an Auditory stimulator for PATc and Steady-State.
