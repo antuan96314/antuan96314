@@ -20,7 +20,7 @@
 - Provided technical support and guidance to customers.
 ---  
 [**Aliuska Marrero Nieblas Cuban Engineer**](https://aleo.com/int/company/aliuska-marrero-nieblas-cuban-engineer-warszawa)  
-*2021-01-01 - 2022-12-31*  
+*2021-01-01 - 2022-12-31* | *Warszawa, Poland*  
 **Software Engineer as Freelancer**  
 - Core system development of [LizardFS](https://github.com/lizardfs/lizardfs) Open Source Distributed File System.
 - System improvements for single-stream reading performances.
