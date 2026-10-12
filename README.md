@@ -6,20 +6,24 @@
 
 ### Work Experience
 [**Leil Storage OÜ**](https://leil.io)  
-*2022-01-01 – Present* | *Tallinn, Estonia*  
-**Position:** [*Senior Storage Developer*](https://leil.io/about/#team:~:text=Antonio%20Alberto%20Iznaga%20Mar%C3%ADn)  
-**Projects:** [SaunaFS](https://saunafs.com/about_us#team:~:text=Antonio%20Alberto%20Iznaga%20Mar%C3%ADn) [Open Source Distributed Filesystem](https://saunafs.com/#overview)  
+*2023-01-01 – Present* | *Tallinn, Estonia*  
+**Position:** *Senior Storage Developer*  
+**Projects:** [LeilOS](https://leil.io/) [Open Source Distributed Filesystem](https://leil.io/products/leil-fs/), LeilFS Inotifier, leilClientManager, Leil Dashboard  
 
-- Core system development for the [Open Source](https://github.com/leil-io/saunafs) distributed file storage solution.
+- Core system development for the [Open Source](https://github.com/leil-io/leilfs) distributed file storage solution.
 - Enhanced metadata architecture to optimize handling of parallel loads.
 - Improved Linux client performance by integrating the direct I/O fuse option for more efficient reads.
 - Developed and maintained automated testing frameworks and CI pipelines (Bash, Docker, Jenkins).
 - Designed migration tools and facilitated the seamless transition to SaunaFS.
-- Created an Ansible-based deployment setup for multi-cluster SaunaFS installations.
+- Built and maintained Ansible deployment automation for multi-cluster, multi-customer LeilOS production installations (uraft HA, metaloggers, multi-chunkserver nodes, HM-SMR/zonefs drives, Ansible Vault, Molecule/ansible-lint).
+- Designed and developed LeilFS Inotifier, a Go service that registers with the metadata server over its binary protocol, parses changelog operations, translates inodes to paths and publishes filesystem events to NATS (TLS, MessagePack, Docker and Debian packaging).
+- Designed and developed leilClientManager, a cross-platform (Linux/Windows) Qt 6/QML + C++20 desktop client to manage SaunaFS mounts: schema-driven mount options validation, per-user profiles with export/import, Windows drive-letter and Explorer integration, privileged mount helper, and theme-aware UI aligned with the Leil Design System.
+- Set up build, packaging and release pipeline for the desktop client: CMake/CPack .deb and NSIS installers (MinGW cross-build), Authenticode code signing, Qt Test unit tests.
+- Bootstrapped Leil Dashboard, a React + TypeScript (Vite) web admin console for LeilFS clusters.
 - Focused on low-level Linux system programming and filesystem optimizations.
 - Provided technical support and guidance to customers.
 ---  
-[**Aliuska Marrero Nieblas Cuban Engineer**](https://aleo.com/int/company/aliuska-marrero-nieblas-cuban-engineer-warszawa)  
+**Aliuska Marrero Nieblas Cuban Engineer**  
 *2021-01-01 - 2022-12-31* | *Warszawa, Poland*  
 **Software Engineer as Freelancer**  
 - Core system development of [LizardFS](https://github.com/lizardfs/lizardfs) Open Source Distributed File System.
